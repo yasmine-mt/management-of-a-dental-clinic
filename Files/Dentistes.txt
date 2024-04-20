@@ -1,0 +1,11 @@
+4;Osten;Kamil;5000.0;ORTHODONTIE;johndoe;password;
+5;Isabelle;Kris;5000.0;AUTRE;johndoe;password;
+6;Lisnom;Sita;5000.0;ORTHODONTIE;johndoe;password;
+7;David;Wilson;5000.0;PROTHESE;dwilson;password;
+8;Sophie;Turner;5000.0;CHIRUGIE_DENTAIRE;sturner;password;
+9;Alex;Garcia;5000.0;ENDODONTIE;agarcia;password;
+1;John;Doe;5000.0;PROTHESE;johndoe;password;
+2;Jane;Smith;5000.0;CHIRUGIE_DENTAIRE;janesmith;password;
+3;Michael;Johnson;5000.0;AUTRE;michaelj;password;
+
+

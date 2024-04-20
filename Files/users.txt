@@ -1,0 +1,15 @@
+ID|Username|Password|FirstName|LastName|Adresse|Email|Telephone|CIN|Role
+1|admin|admin|Omar|Alaoui|xxx|x@gmail.com|06000|AB30|A
+2|khouloud|k@2022|khouloud|Emsi||xxx|x@gmail.com|06000|AB30|S
+3|ali@jad|12345|S|Ali|xxx|x@gmail.com|06000|AB30|S
+4|Lilya@d|12386|Lilya|Daoud|xxx|x@gmail.com|06000|AB30|S
+5|laura12|password|Laura|Johnson|123 Main St|laura@example.com|1234567890|AB123|A
+6|adam99|pass123|Adam|Smith|456 Oak St|adam@example.com|9876543210|CD456|S
+7|sara22|pass321|Sara|Williams|789 Elm St|sara@example.com|5678901234|EF789|S
+8|jacob_4|abc@123|Jacob|Brown|101 Pine St|jacob@example.com|6789012345|GH012|S
+9|emily_89|e@987|Emily|Wilson|202 Maple St|emily@example.com|3456789012|IJ345|S
+10|noah!|!noah#|Noah|Garcia|303 Cedar St|noah@example.com|8901234567|KL678|S
+11|clara55|clara@22|Clara|Martinez|404 Birch St|clara@example.com|2345678901|MN901|S
+12|leo_22|le0#0|Leo|Robinson|505 Redwood St|leo@example.com|4567890123|OP234|S
+13|sophie33|sophie123|Sophie|Hernandez|606 Spruce St|sophie@example.com|6789012345|QR567|S
+14|lucas_88|lucas##|Lucas|Lopez|707 Sycamore St|lucas@example.com|7890123456|ST890|S

@@ -1,0 +1,5 @@
+1|PREVENTION|200.0|100.0|4|Nettoyage des dents|1
+2|CHIRURGIE|350.0|200.0|5|Extraction de la dent de sagesse|2
+3|IMPLANTOLOGIE|500.0|300.0|8|Pose d'implant dentaire|3
+4|ORTHODONTIE|400.0|250.0|2|Correction d'alignement dentaire|1
+5|PREVENTION|150.0|80.0|6|Traitement de caries|2
